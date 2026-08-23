@@ -22,14 +22,14 @@ THE IDEA
 
 The recruiter is deciding one thing: does this person get an interview.
 
-If they say yes to a weak candidate, the interview catches it. If they say no to a strong one, nobody ever finds out. So saying no is the dangerous one, and saying no is what a busy person does when a score looks low.
+If they say yes to a weak candidate, the interview will confirm it. If a recruiter is says no to a strong one, nobody ever finds out and the company loses a good hire. So saying NO can backfire, and saying no is an obvious choice incase the AI generated score is low.
 
-So: saying yes is one click. Saying no asks for a reason. And if the evidence disagrees with the score, saying no asks twice.
+So: saying yes is one click. Saying no asks for a reason. And if the evidence (AI generated from the transcripts) disagrees with the score, saying no asks twice.
 
-The score is next to the candidate, not above them. If you put a verdict at the top, people stop reading and start rubber-stamping.
+The score is next to the candidate, not above them.
 
-Open any row and it shows two things: what the job needs, and the hiring manager saying it on the intake call. If nothing was said, the row says "no source" and you can delete it. Recruiters work roles they do not own, so they need a way to check a claim instead of just believing it.
-
+Open any row and it shows two things: what the job needs, and the hiring manager saying it on the intake call. If nothing was said, the row says "no source" and you can delete it. 
+ Reason - Recruiters work roles they do not own, so they need a way to check a claim instead of just believing it. 
 
 1. WHAT WORKS, AND WHAT DOES NOT
 
